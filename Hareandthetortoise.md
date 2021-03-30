@@ -11,4 +11,5 @@ The Hare was soon far out of sight, and to make the Tortoise feel very deeply ho
 
 The Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. But the Hare slept on very peacefully; and when at last he did wake up, the Tortoise was near the goal. The Hare now ran his swiftest, but he could not overtake the Tortoise in time.
 
-The race is not always to the swift.
+Slow and steady wins the race.
+The end
